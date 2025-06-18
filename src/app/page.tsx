@@ -116,7 +116,7 @@ export default function Home() {
       showComment: '查看/添加评论',
       hideComment: '隐藏评论',
       submitComment: '添加评论',
-      connectWallet: '连接钱包',
+      connectWallet: 'Connect Wallet 连接钱包 ',
       pleaseConnect: '请连接钱包以查看和提交历史记录。',
       loadingSearch: '正在搜索...',
       expand: '展开',
